@@ -1,8 +1,5 @@
 {
 .appVersion = "4108";
-DisplayStrings = (
-"HAMBUR/Gcircumflex/Gdotaccent/uni0122/Gcircumflex/Gcaron/Gbreve GEFONTSIV\012\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012\012HAHBHCHDHEHFHGHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012\012AHBHC/space HDHEHFHGHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012\012HAH/space HBH/space HCH/space HDH/space HEH/space HFH/space HGH/space HHH/space HIH/space HJH/space HKH/space HLH/space HMH/space HNH/space HOH/space HPH/space HQH/space HRH/space HSH/space HTH/space HUH/space HVH/space HWH/space HXH/space HYH/space HZH\012\012OA/Cdotaccent/Ccircumflex Ç/Ccaron/Cacute/Gdotaccent/uni0122/Gcircumflex/Gcaron/Gbreve O/space OBO/space OCO/space ODO/space OEO/space OFO/space OGO/space OHO/space OIO/space OJO/space OKO/space OLO/space OMO/space ONO/space OOO/space OPO/space OQO/space ORO/space OSO/space OTO/space OUO/space OVO/space OWO/space OXO/space OYO/space OZO\012\012AVAVA/space VAVAV/space AWAWA/space WAWAW/space AYAYA/space YAYAY/space AXAXA/space XAXAX\012\012CACAC/space GAGAG/space SASAS/space TATAT/space LALAL/space JAJaj/space \012\012THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG\012PACK/space MY/space BOX/space WITH/space FIVE/space DOZEN/space LIQUOR/space JUGS\012SPHINX/space OF/space BLACK/space QUARTZ/space JUDGE/space MY/space VOW\012\012HCOH\012HCAH\012HCEH\012HCIH\012HCNH\012HCROH\012COCO\012COOC\012CACA\012CECE\012CICI\012CNCN\012CODO\012COTO\012COLD\012COOL\012CODE\012CORE\012CONE\012CORN\012COME"
-);
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
@@ -672,7 +669,7 @@ date = "2019-10-14 17:14:00 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
-familyName = Tomorrow;
+familyName = "Tomorrow GG";
 featurePrefixes = (
 {
 code = "lookup lookup_0 {\012sub A by ordfeminine;\012sub O by ordmasculine;\012sub a by ordfeminine;\012sub o by ordmasculine;\012} lookup_0;\012";

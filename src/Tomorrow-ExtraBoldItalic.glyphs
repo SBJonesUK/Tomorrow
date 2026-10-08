@@ -1,7 +1,16 @@
 {
-.appVersion = "1264";
+.appVersion = "4108";
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
 {
 name = vendorID;
 value = JUST;
@@ -13,21 +22,12 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
-},
-{
-name = fsType;
-value = (
-);
-},
-{
-name = "Use Typo Metrics";
-value = 1;
 }
 );
 date = "2019-10-14 17:17:00 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
-familyName = Tomorrow;
+familyName = "Tomorrow GG";
 featurePrefixes = (
 {
 automatic = 1;
@@ -138,6 +138,7 @@ position = "{84, 575}";
 horizontalStems = (
 119
 );
+iconName = Bold;
 id = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
 italicAngle = 10;
 name = ExtraBoldItalic;

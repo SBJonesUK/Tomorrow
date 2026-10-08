@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "4108";
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
@@ -637,6 +637,15 @@ uniF000
 );
 },
 {
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = vendorID;
 value = JUST;
 },
@@ -649,20 +658,24 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = fsType;
+name = Axes;
 value = (
-);
+{
+Name = Weight;
+Tag = wght;
 },
 {
-name = "Use Typo Metrics";
-value = 1;
+Name = Width;
+Tag = wdth;
+}
+);
 }
 );
 date = "2019-10-14 17:16:25 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
-familyName = Tomorrow;
+familyName = "Tomorrow GG";
 featurePrefixes = (
 {
 code = "lookup lookup_0 {\012sub A by ordfeminine;\012sub O by ordmasculine;\012sub a by ordfeminine;\012sub o by ordmasculine;\012} lookup_0;\012";
